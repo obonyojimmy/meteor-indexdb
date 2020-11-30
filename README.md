@@ -1,2 +1,3 @@
-# meteor-indexdb
-meteor index-db binding packages.
+# meteor-indexdb (WIP)
+
+Meteor indexDb web-api binding package for offline data storage
